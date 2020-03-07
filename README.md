@@ -1,7 +1,7 @@
 # Flask-React-Boilerplate
 Boilerplate for a RESTfull React, Flask project.
 
-##To start:
+## To start:
 
 In project root run `make`
 
